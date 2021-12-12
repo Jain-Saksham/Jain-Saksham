@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: It's not fun anymore.
--->
