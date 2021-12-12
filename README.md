@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/Jain-Saksham/Jain-Saksham.svg?style=flat-square)](http://hits.dwyl.com/Jain-Saksham/Jain-Saksham)
+
 ### Hi, I'm Saksham Jain 👋
 
 Here are some ideas to get you started:
