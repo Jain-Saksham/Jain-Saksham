@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on NOTHING/EVERYTHING.
-- 🌱 I’m currently learning React and Redux.
+- 🔭 I’m currently working in Bank of America.
+- 🌱 I’m currently learning Java and Spring.
 - 👯 I’m looking to collaborate on any Web Dev project.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: It's not fun anymore.
