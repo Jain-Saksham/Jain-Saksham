@@ -17,7 +17,6 @@ Software Engineer @ Bank of America | Backend + AI + Automation
 • Proven track record of delivering systems that saved **3,000+ hours** of manual effort annually  
 • Successfully integrated **OpenAI Whisper, Nuance APIs, REST services** to enhance IVR accuracy and performance  
 • Managed **120+ Production CRQs** with **100% compliance**, ensuring reliable deployment + change governance  
-• Gold medalist (top performer) in **B.E. Computer Science (AI)**  
 • Winner — **Bank of America Campus Grad Innovation Hackathon 2024**
 
 ---
