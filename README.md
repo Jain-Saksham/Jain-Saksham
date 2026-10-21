@@ -26,6 +26,7 @@ I build backend systems, automation, and applied-AI tools for enterprise banking
 |---|---|---|
 | [**LinkLens**](https://github.com/Jain-Saksham/LinkLens) · [live](https://linklens-app.onrender.com) | URL shortener with link-rot monitoring, real-time click analytics (SSE), Redis caching, rate limiting, and a measured load test | Java 21 · Spring Boot · PostgreSQL · Redis · React |
 | [**Email Assistant**](https://github.com/Jain-Saksham/email_assistant) | Browser extension + app that drafts tone-aware email replies with an LLM | Spring Boot · Gemini API · React |
+| [**VITAL**](https://github.com/TheAnirudhRoy/VITAL) | AI fitness coach that tracks body pose in real time to correct yoga/exercise form and count reps | Python · OpenCV · MediaPipe (BlazePose) |
 | [**LLD Interview Prep**](https://github.com/Jain-Saksham/LLD-Interview-Prep) | Low-level design handbook: SOLID, all 23 GoF patterns, runnable Java examples | Java |
 
 ---
